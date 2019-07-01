@@ -1,13 +1,1 @@
-# Ignore everything
-*
-!.gitignore
-!build/*/*
-!build/*/**
-!build/static/*/*
-!build/static/*/**
-!build/static/css/*/*
-!build/static/css/*/**
-!build/static/js/*/*
-!build/static/js/*/**
-!build/static/media/*/*
-!build/static/media/*/**
+.idea
