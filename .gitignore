@@ -5,7 +5,6 @@
 !build/*/**
 !build/static/*/*
 !build/static/*/**
-!build/*/*/**
-!build/*/**/*
-!build/*/*/*/*
-!build/*/*/*/**
+!build/static/css/*/**
+!build/static/js/*/**
+!build/static/media/*/**
