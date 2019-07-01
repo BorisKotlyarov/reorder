@@ -1,8 +1,9 @@
 # Ignore everything
 *
-
 !.gitignore
 !build/*/*
 !build/*/**
 !build/*/*/*
 !build/*/*/**
+!build/*/**/*
+!build/*/**/**
