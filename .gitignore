@@ -3,7 +3,8 @@
 !.gitignore
 !build/*/*
 !build/*/**
-!build/*/*/*
+!build/static/*/*
+!build/static/*/**
 !build/*/*/**
 !build/*/**/*
 !build/*/*/*/*
